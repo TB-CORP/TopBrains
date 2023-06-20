@@ -1,6 +1,8 @@
 # IT department task management
 This article is a must-read to get you started in organizing your IT department tasks, it will summarize the most basic aspects of task organization and give the best recommendations. Disclamer, before reading this article, familiarize yourself with the user interface of ClickUp application.
 
+---
+
 ## Contents
 - [Introduction](#it-department-task-management)
 - [Tags](#tags)

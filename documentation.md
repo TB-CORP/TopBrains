@@ -7,7 +7,4 @@ Documentation is a set of articles whose material has been officially approved b
 - [Introduction](#documentation)
 - [Navigation](#navigation)
 
-## Navigation
-- [Statuses](./documentation/statuses.md)
-
 #documentation
