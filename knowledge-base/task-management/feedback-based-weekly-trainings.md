@@ -1,4 +1,4 @@
-# Feedback-based Weekly Trainings
+# Feedback-based Weekly Trainings (FWT)
 Feedback-based Weekly Trainings (FWT) is training approach, which allows a company's employee to train based on feedback of others. The purpose of this approach is to not do the same mistakes in terms of work and study to fill the actual and real gaps in employees knowledge. This training system can only be applied to IT department, since it was written by CTO, who is primarily qualified in IT layer of business.
 
 ---

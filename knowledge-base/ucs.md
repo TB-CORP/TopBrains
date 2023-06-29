@@ -1,12 +1,13 @@
 # Unified Code System (UCS)
-UCS (Unified Code System) are codes. A code is a unique state indicator of a certain resource in a certain project. There is no single purpose of using codes, UCS may includes codes for various of purposes.
+UCS (Unified Code System) are codes. A code is a unique state indicator of a certain resource in a certain brand. There is no a single purpose of using codes, UCS may include codes for various of purposes.
 
 ---
 
 ## Contents
 - [Introduction](#unified-code-system-ucs)
 - [Code anatomy](#code-anatomy)
-- [Projects](#projects)
+- [Brands](#brands)
+- [See also](#see-also)
 
 ---
 
@@ -17,14 +18,14 @@ Code:
 12345
 
 Parts:
-1   Project
+1   Brand
 2   Resource
 345  Indicator
 ```
 When pronounce a code, each of its parts should be pronounced separately. In example, `12345` (one, two, thirty-four). In case of indicator containing `0`, `12001` (one, two, oh oh one).
 
-## Projects
-| Code  | Project   |
+## Brands
+| Code  | Brand     |
 | :---: | :-------- |
 | 0---- | Common    |
 | 1---- | TopBrains |
@@ -86,5 +87,8 @@ When pronounce a code, each of its parts should be pronounced separately. In exa
 | 17001 | Semiannual   |
 | 17002 | Annual       |
 | 17003 | Per resource |
+
+## See also
+- [Common terms](./common-terms.md)
 
 #knowledge-base

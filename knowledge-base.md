@@ -11,5 +11,6 @@ Documentation is a set of articles whose material has been officially approved b
 - [Task management](./knowledge-base/task-management.md)
 - [Unified Code System (UCS)](./knowledge-base/ucs.md)
 - [Git branching strategy](./knowledge-base/git-branching-strategy.md)
+- [Code organization guidelines](./knowledge-base/code-organization-guidelines.md)
 
 #knowledge-base

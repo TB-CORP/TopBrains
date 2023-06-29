@@ -1,5 +1,5 @@
 # Git branching strategy
-The primary git [branching](https://en.wikipedia.org/wiki/Branching_(version_control)) strategy should be the GitFlow. See more information in this document below and refer existing repositories branching. If there is a strong need to choose a different strategy, it's allowed, but consult with the team leader or CTO. If there is no need to follow [semantic versioning](https://en.wikipedia.org/wiki/Software_versioning) and there is no need to categorize the progress of a certain repository in different stages, then this strategy is unnecessary.
+Git branching strategy is a base guideline of how to create and work with [Git](https://git-scm.com/) branches. The primary git [branching](https://en.wikipedia.org/wiki/Branching_(version_control)) strategy should be the GitFlow. See more information in this document below and refer existing repositories branching. If there is a strong need to choose a different strategy, it's allowed, but consult with the team leader or CTO. If there is no need to follow [semantic versioning](https://en.wikipedia.org/wiki/Software_versioning) and there is no need to categorize the progress of a certain repository in different stages, then this strategy is unnecessary.
 
 ---
 
@@ -15,7 +15,7 @@ In terms of `+tag`, `+release`, `+patch` and any other versioning action follow 
 ```plantuml
 @startuml GitGraph Diagram
 skinparam defaultTextAlignment center
-scale 800 width
+scale 640 width
 
 main -> develop : Branch to
 develop -> feature : Branch to
