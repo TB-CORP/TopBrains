@@ -29,6 +29,6 @@ hotfix -> main : Merge to <color:orange>+patch
 ```
 
 ## Note
-If the document's diagrams are not visible, [plantUML](https://plantuml.com/) server should be configured and/or showing insecure content in your IDE should be allowed. If you want to preview the diagrams within the GitHub website, consider installing a browser extension for it.
+If the document's diagrams are not visible, [plantUML](https://plantuml.com/) server should be configured and/or showing insecure content in your IDE should be allowed. If you want to preview the diagrams within the GitHub website, consider installing a [browser extension](https://chrome.google.com/webstore/detail/markdown-diagrams/pmoglnmodacnbbofbgcagndelmgaclel) for it.
 
 #knowledge-base
