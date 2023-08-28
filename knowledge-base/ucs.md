@@ -55,69 +55,67 @@ When pronounce a code, each of its parts should be pronounced separately. In exa
 | 12003 | manager   |
 | 12004 | admin     |
 #### Permission
-| Code  | Indicator                                           |
-| :---: | :-------------------------------------------------- |
-| 13001 | tb-sh-ra/user/user/get                              |
-| 13002 | tb-sh-ra/user/user/delete                           |
-| 13003 | tb-sh-ra/user/user/update                           |
-| 13004 | tb-sh-ra/user/access-token/refresh                  |
-| 13005 | tb-sh-ra/user/feedback/add                          |
-| 13006 | tb-sh-ra/user/user-promo-code/list                  |
-| 13007 | tb-sh-ra/user/user-promo-code/submit                |
-| 13008 | tb-sh-ra/user/user-promo-code/get                   |
-| 13009 | tb-sh-ra/user/user-course/enroll                    |
-| 13010 | tb-sh-ra/user/user-course/list                      |
-| 13011 | tb-sh-ra/user/user-course/get                       |
-| 13012 | tb-sh-ra/user/user-lesson/interact                  |
-| 13013 | tb-sh-ra/user/user-lesson/get                       |
-| 13014 | tb-sh-ra/user/user-lesson/list                      |
-| 13015 | tb-sh-ra/user/user-lesson-comment/reply-get         |
-| 13016 | tb-sh-ra/user/user-lesson-comment/reply-list        |
-| 13017 | tb-sh-ra/user/user-lesson-comment/delete            |
-| 13018 | tb-sh-ra/user/user-lesson-comment/edit              |
-| 13019 | tb-sh-ra/user/user-lesson-comment/add               |
-| 13020 | tb-sh-ra/user/user-lesson-comment/get               |
-| 13021 | tb-sh-ra/user/user-lesson-comment/list              |
-| 13022 | tb-sh-ra/user/user-subscription/cancel              |
-| 13023 | tb-sh-ra/user/user-subscription/list                |
-| 13024 | tb-sh-ra/user/user-subscription/get                 |
-| 13025 | tb-sh-ra/user/user-auth-source/phone-number-sign-up |
-| 13026 | tb-sh-ra/user/user-auth-source/google-auth          |
-| 13027 | tb-sh-ra/user/user-auth-source/facebook-auth        |
-| 13028 | tb-sh-ra/user/user-auth-source/log-out              |
-| 13029 | tb-sh-ra/user/user-auth-source/phone-number-reset   |
-| 13030 | tb-sh-ra/user/user-auth-source/phone-number-log-in  |
-| 13031 | tb-sh-ra/course/course/list                         |
-| 13032 | tb-sh-ra/course/course/get                          |
-| 13033 | tb-sh-ra/course/chapter/get                         |
-| 13034 | tb-sh-ra/course/chapter/list                        |
-| 13035 | tb-sh-ra/course/lesson/list                         |
-| 13036 | tb-sh-ra/course/lesson/get                          |
-| 13037 | tb-sh-ra/course/lesson-attachment/get               |
-| 13038 | tb-sh-ra/course/lesson-attachment/list              |
-| 13039 | tb-sh-ra/subscription/subscription/list             |
-| 13040 | tb-sh-ra/subscription/subscription/get              |
-| 13041 | tb-sh-ra/subscription/course-subscription/get       |
-| 13042 | tb-sh-ra/subscription/course-subscription/list      |
-| 13043 | tb-sh-ra/payment/payment-log/click-complete         |
-| 13044 | tb-sh-ra/payment/payment-log/purchase               |
-| 13045 | tb-sh-ra/payment/payment-log/payme                  |
-| 13046 | tb-sh-ra/payment/payment-log/click-prepare          |
-| 13047 | tb-sh-ra/lookup/language/get                        |
-| 13048 | tb-sh-ra/lookup/language/list                       |
-| 13049 | tb-sh-ra/lookup/currency/get                        |
-| 13050 | tb-sh-ra/lookup/currency/list                       |
+| Code  | Indicator                                      |
+| :---: | :--------------------------------------------- |
+| 13001 | tb-sh-ra/user/user/get                         |
+| 13002 | tb-sh-ra/user/user/delete                      |
+| 13003 | tb-sh-ra/user/user/update                      |
+| 13004 | tb-sh-ra/user/access-token/refresh             |
+| 13005 | tb-sh-ra/user/feedback/add                     |
+| 13006 | tb-sh-ra/user/user-promo-code/list             |
+| 13007 | tb-sh-ra/user/user-promo-code/submit           |
+| 13008 | tb-sh-ra/user/user-promo-code/get              |
+| 13009 | tb-sh-ra/user/user-course/enroll               |
+| 13010 | tb-sh-ra/user/user-course/list                 |
+| 13011 | tb-sh-ra/user/user-course/get                  |
+| 13012 | tb-sh-ra/user/user-lesson/interact             |
+| 13013 | tb-sh-ra/user/user-lesson/get                  |
+| 13014 | tb-sh-ra/user/user-lesson/list                 |
+| 13015 | tb-sh-ra/user/user-lesson-comment/reply-get    |
+| 13016 | tb-sh-ra/user/user-lesson-comment/reply-list   |
+| 13017 | tb-sh-ra/user/user-lesson-comment/delete       |
+| 13018 | tb-sh-ra/user/user-lesson-comment/edit         |
+| 13019 | tb-sh-ra/user/user-lesson-comment/add          |
+| 13020 | tb-sh-ra/user/user-lesson-comment/get          |
+| 13021 | tb-sh-ra/user/user-lesson-comment/list         |
+| 13022 | tb-sh-ra/user/user-subscription/cancel         |
+| 13023 | tb-sh-ra/user/user-subscription/list           |
+| 13024 | tb-sh-ra/user/user-subscription/get            |
+| 13025 | tb-sh-ra/user/user-auth-source/sign-up         |
+| 13026 | tb-sh-ra/user/user-auth-source/reset           |
+| 13027 | tb-sh-ra/user/user-auth-source/log-in          |
+| 13028 | tb-sh-ra/user/user-auth-source/log-out         |
+| 13029 | tb-sh-ra/course/course/list                    |
+| 13030 | tb-sh-ra/course/course/get                     |
+| 13031 | tb-sh-ra/course/chapter/get                    |
+| 13032 | tb-sh-ra/course/chapter/list                   |
+| 13033 | tb-sh-ra/course/lesson/list                    |
+| 13034 | tb-sh-ra/course/lesson/get                     |
+| 13035 | tb-sh-ra/course/lesson-attachment/get          |
+| 13036 | tb-sh-ra/course/lesson-attachment/list         |
+| 13037 | tb-sh-ra/subscription/subscription/list        |
+| 13038 | tb-sh-ra/subscription/subscription/get         |
+| 13039 | tb-sh-ra/subscription/course-subscription/get  |
+| 13040 | tb-sh-ra/subscription/course-subscription/list |
+| 13041 | tb-sh-ra/payment/payment-log/click-complete    |
+| 13042 | tb-sh-ra/payment/payment-log/purchase          |
+| 13043 | tb-sh-ra/payment/payment-log/payme             |
+| 13044 | tb-sh-ra/payment/payment-log/click-prepare     |
+| 13045 | tb-sh-ra/lookup/language/get                   |
+| 13046 | tb-sh-ra/lookup/language/list                  |
+| 13047 | tb-sh-ra/lookup/currency/get                   |
+| 13048 | tb-sh-ra/lookup/currency/list                  |
 #### Status
-| Code  | Indicator  |
-| :---: | :--------- |
-| 14001 | active     |
-| 14002 | inactive   |
-| 14003 | deleted    |
-| 14004 | failed     |
-| 14005 | validating |
-| 14006 | completing |
-| 14007 | denied     |
-| 14008 | processing |
+| Code  | Indicator  | Description                                    |
+| :---: | :--------- | :--------------------------------------------- |
+| 14001 | active     | Currently operational or functioning.          |
+| 14002 | inactive   | Not currently operational or inactive.         |
+| 14003 | deleted    | Removed or no longer available.                |
+| 14004 | failed     | Unsuccessful or not completed successfully.    |
+| 14005 | validating | Undergoing validation or verification process. |
+| 14006 | completing | In the process of being finished or completed. |
+| 14007 | denied     | Rejected or not approved.                      |
+| 14008 | processing | Currently being processed or worked on.        |
 #### Attachment Type
 | Code  | Indicator     |
 | :---: | :------------ |
